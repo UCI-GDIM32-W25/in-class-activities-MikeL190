@@ -15,7 +15,7 @@ Have others playtest your game so that they might find bugs that you might not k
 8. For this specific case, you just have to make Transform lowercase, so that it references the current script's Transform component that the script is attached to. You could also use the _playerTransform variable and call the Translate method on this object. But also the _direction variable should be set to a certain value, otherwise the object that the script is attached to won't get moved anywhere.
 
 ### Activity 3
-[MG1 Breakdown Google Doc]https://docs.google.com/document/d/13CpbeuxDdSu4rNWc0M-8HcteVHemPggOYnJ30APiQpM/edit?tab=t.0
+[MG1 Breakdown Google Doc] (https://docs.google.com/document/d/13CpbeuxDdSu4rNWc0M-8HcteVHemPggOYnJ30APiQpM/edit?tab=t.0)
 
 
 
