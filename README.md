@@ -18,8 +18,13 @@ Have others playtest your game so that they might find bugs that you might not k
 [MG1 Breakdown Google Doc](https://docs.google.com/document/d/1IAbfUZMwyBKvY7Xv__4lsDwhYpiD753GZPPafO9OXXg/edit?usp=sharing)
 
 ## W2
+
+### Activity 1
 <img width="1152" height="648" alt="School_Image1" src="https://github.com/user-attachments/assets/590ca12b-aba9-4b62-9b1e-3a6524cb29a7" />
 
+### Activity 2
+
+[MG2 Breakdown](https://github.com/UCI-GDIM32-W25/mg2-MikeL190/commit/01b5b1a91d98542f1f5f5eff434429e81631d906)
 
 
 
