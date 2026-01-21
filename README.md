@@ -29,8 +29,9 @@ I added the penguin sprite, sample text UI, coin sprite, and floor sprite. I als
 
 ## W3
 
-## Activity 0
-Parter Name: Nansong Sun
+### Activity 0 - 2
+Partner Name: Nansong Sun
 
-## Activity 1
+### Activity 3
+<img width="1152" height="648" alt="School_Image_2" src="https://github.com/user-attachments/assets/f4dc931f-cd26-4779-85c2-c25f21ca853c" />
 
