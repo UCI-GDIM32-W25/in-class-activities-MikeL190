@@ -27,5 +27,10 @@ I added the penguin sprite, sample text UI, coin sprite, and floor sprite. I als
 <br> <br>
 [MG2 Breakdown](https://github.com/UCI-GDIM32-W25/mg2-MikeL190/commit/01b5b1a91d98542f1f5f5eff434429e81631d906)
 
+## W3
 
+## Activity 0
+Parter Name: Nansong Sun
+
+## Activity 1
 
