@@ -35,3 +35,16 @@ Partner Name: Nansong Sun
 ### Activity 3
 <img width="1152" height="648" alt="School_Image_2" src="https://github.com/user-attachments/assets/f4dc931f-cd26-4779-85c2-c25f21ca853c" />
 
+## W4
+
+### Activity 0
+Partner Name: Nansong Sun
+
+### Activity 1
+When you add multiple GameObjects with a Locator script attached to each of them, only one of the Locator script components will stay on a GameObject, so the rest will get deleted from the game. For example, I added 3 empty GameObjects to my scene, and then I added my Locator script to each of them. When I ran the game and looked back at the Hierarchy, only one of those GameObject had a Locator script attached to it, while the other GameObjects had their Locator script removed.
+
+### Activity 2
+<img width="1152" height="648" alt="School_Image_3" src="https://github.com/user-attachments/assets/5484ebe2-e958-4b4b-9e39-56258429bc57" />
+
+### Activity 3
+I set up the Unity Project on my own, so I downloaded and imported the required assets, such as the pipe and bird images. Then, I added a Bird GameObject, with a temp Sprite, and added a Bird_Controller script to it to make it simulate jumping. Then, I created the Pipe GameObject with three child GameObjects and added a script to the parent to make it move left when . I also added a Pipe_Manager script that handles spawning the pipe.
