@@ -50,3 +50,22 @@ When you add multiple GameObjects with a Locator script attached to each of them
 I set up the Unity Project on my own. Then, I added a Bird GameObject, with a temp Sprite, and added a Bird_Controller script to it to make it simulate jumping. Then, I created the Pipe GameObject with three child GameObjects and added a script to the parent to make it move left when the pipe spawns. I also added a Pipe_Manager script that handles spawning the pipe.
 <br> <br>
 [MG4 Commit](https://github.com/MikeL190/HW4/commit/cbd29fd65199c42a6ad51591150c3ebdbcc6e133)
+
+## W5
+
+### Activity 1
+I would keep the design of the interfaces and abstract classes the way they are because to me, you can easily add on to the project with the current setup. For example, when adding another weapon, you would want to automatically make it inherit from the Item abstract class, since it's an item, and if you want this weapon to be breakable, then you implement the IBreakable interface, but if you want this weapon to be unbreakable, then you don't implement the interface. Also, if you want to add more functionality to this new weapon, then you just add more methods to it if needed and if you need more interfaces to implement, then you can do that as well; the whole design is very flexible.
+### Activity 2
+
+### Activity 3
+
+#### Scenario 1
+
+#### Scenario 2
+
+#### Scenario 3
+
+### Activity 4
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+<br>
+Proposal: [Final Project Proposal First Draft](https://github.com/MikeL190/HW4/commit/cbd29fd65199c42a6ad51591150c3ebdbcc6e133)
