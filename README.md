@@ -71,4 +71,4 @@ You can use C# events for various things in Stardew Valley, such as when a plant
 ### Activity 4
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 <br>
-Proposal: [Final Project Proposal First Draft](https://github.com/MikeL190/HW4/commit/cbd29fd65199c42a6ad51591150c3ebdbcc6e133)
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.khlj2whc254g)
