@@ -72,3 +72,17 @@ You can use C# events for various things in Stardew Valley, such as when a plant
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 <br>
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.khlj2whc254g)
+
+## W6
+
+### Activity 1
+The profiler can be used as a special kind of debugger for your game, but specifically it lets you see the performance of your game while you are playing it. If your game is running slow, then you can check the profiler to try and diagnose the issue. We can use this tool in our final project in the event where our game is all of a sudden running slow or lagging a lot. Here, we can open the profiler window and look at the spikes on the graph and that will give us an idea of where the code is going wrong.
+
+The gizmos can be used in our final project in many ways. In our game, the player can pick up different weapons, so we can use the gizmos to show us the pickup range of the weapons, as well as the hitbox for the weapons. We also have an NPC in our game, so we can use the gizmos to show the interaction radius with the NPC. Also, if we decide to make the NPC move around, we can use gizmos to show the path that the NPC takes, this way if we make the path too long or too short we can see that immediately. 
+
+We can use breakpoints to check if certain sections of our code are working the way we expect them to. We can use this in our final project by adding a breakpoint on a specific line we want to diagnose and when we run the game, it will stop at that breakpoint and this allows us to step through our code one line at a time. This can be really helpful in certain situations when you are unsure why certain varaibles are set to certain values, so you can use breakpoints to step through each line of code and this lets you see the logic one step at a time.
+
+### Activity 2
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+<br>
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.khlj2whc254g)
