@@ -86,3 +86,17 @@ We can use breakpoints to check if certain sections of our code are working the 
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 <br>
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1Ax2Mq7j3RwbZEpmFtbBaP7coQjp67ePpT8dRNFPnmxk/edit?tab=t.0#heading=h.khlj2whc254g)
+
+## W7
+
+### Activity 1
+Raycasting can be a very useful tool in your game. You can use raycasts if you are making a First-Person Shooter game, where the guns will fire a ray out into space and if it hits an enemy then that enemy will take damage and the cool thing about using raycasting is that it's instant. Raycasting is flexible to me, because you can specifiy how far you want the ray to travel and you can extract specific data out of your Hit object, such as the hit object's transform component as well as the specific point in 3D space where the ray hit the object at. You can expand further on using raycasts and instead use other similar things such as Physics.SphereCast() if you want. Also, these rays you send out are invisible by default, so if you want to see them then you should use Gizmos to simulate them and actually see them for yourself.
+
+### Activity 2
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+
+### Activity 3
+
+### Activity 4
+
+### Activity 5
