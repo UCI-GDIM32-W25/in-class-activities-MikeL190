@@ -96,7 +96,10 @@ Raycasting can be a very useful tool in your game. You can use raycasts if you a
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 
 ### Activity 3
-
+[Final Project Break-down](https://docs.google.com/drawings/d/1TlOGyu_tVXlUOBFmQ2MWB6SKHNz_H9fCyD2_SFWiyGc/edit?pli=1)
 ### Activity 4
-
+[Task List](https://trello.com/b/Dfl5L4Mu/handy-dandy)
 ### Activity 5
+[Proof of Commit](https://github.com/rsun050/handy-dandy/commit/48f715024277258b497c09e2171b7c30572f93dd#diff-6670798b3475c75727f4ed4416d2902a259ee8d6e5f369fb93b1346d6e43c752)
+<br>
+I made a template for how the environment will look but it's still a work in progress. I made placeholder objects for all the main assets in our game. These include our huge apple tree, ground, cave, lake, basic trees, fences, and village homes.
