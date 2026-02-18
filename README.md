@@ -96,9 +96,11 @@ Raycasting can be a very useful tool in your game. You can use raycasts if you a
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 
 ### Activity 3
-[Final Project Break-down](https://docs.google.com/drawings/d/1TlOGyu_tVXlUOBFmQ2MWB6SKHNz_H9fCyD2_SFWiyGc/edit?pli=1)
+<img width="960" height="720" alt="handy dandy breakdown" src="https://github.com/user-attachments/assets/9e47bfaf-8928-4771-b8ef-4773a6c463e8" />
+
 ### Activity 4
 [Task List](https://trello.com/b/Dfl5L4Mu/handy-dandy)
+
 ### Activity 5
 [Proof of Commit](https://github.com/rsun050/handy-dandy/commit/48f715024277258b497c09e2171b7c30572f93dd#diff-6670798b3475c75727f4ed4416d2902a259ee8d6e5f369fb93b1346d6e43c752)
 <br>
