@@ -115,3 +115,4 @@ You can use Post-Processing Effects to enhance the visuals of your game. You can
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 
 ### Activity 3
+Make the mouse sensivity start out lower, and give the player to open a Settings menu where they can adjust their mouse sensitivity accordingly. Add more to do in the game, like a lake and cave in the back of the village. Add some more environmental props like bushes or wild-life. Fix the bug where looking at an object for the first time makes your mouse freak out. 
