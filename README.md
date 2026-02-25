@@ -116,3 +116,10 @@ Attendance: Michael Lopez, Ruth Sun, Armando Topete
 
 ### Activity 3
 Make the mouse sensivity start out lower, and give the player to open a Settings menu where they can adjust their mouse sensitivity accordingly. Add more to do in the game, like a lake and cave in the back of the village. Add some more environmental props like bushes or wild-life. Fix the bug where looking at an object for the first time makes your mouse freak out. 
+
+### Activity 4
+I will be working on more environmental tasks this week. I will be working on creating / designing the lake, cave, NPC characters, blacksmith-specific building, player, and apples that you can pick up. 
+
+### Activity 5
+I added some prefabs for the apples and NPC in our game. I added some basic functionality to them like being able to pick up the apples and have it show up in your hand. I also made it possible to talk to the NPCs as well. However the models for the apples and NPCs are just simple shapes for now. I also added text that displays when you have successfully intereacted with an item. 
+[Proof of Commit](https://github.com/rsun050/handy-dandy/commit/8310072ec0491660d0f262eb14c1ad4c3018d2f7)
