@@ -105,3 +105,13 @@ Attendance: Michael Lopez, Ruth Sun, Armando Topete
 [Proof of Commit](https://github.com/rsun050/handy-dandy/commit/48f715024277258b497c09e2171b7c30572f93dd#diff-6670798b3475c75727f4ed4416d2902a259ee8d6e5f369fb93b1346d6e43c752)
 <br>
 I made a template for how the environment will look but it's still a work in progress. I made placeholder objects for all the main assets in our game. These include our huge apple tree, ground, cave, lake, basic trees, fences, and village homes.
+
+## W8
+
+### Activity 1
+You can use Post-Processing Effects to enhance the visuals of your game. You can do Bloom effects or some "drunk" effect when the player had too much too drink or if the player got stunned. However, it can lead to performance issues if you put too many post-processing effects in your game. 
+
+### Activity 2
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+
+### Activity 3
