@@ -125,3 +125,21 @@ I will be working on more environmental tasks this week. I will be working on cr
 <br>
 I added some prefabs for the apples and NPC in our game. I added some basic functionality to them like being able to pick up the apples and have it show up in your hand. I also made it possible to talk to the NPCs as well. However the models for the apples and NPCs are just simple shapes for now. I also added text that displays when you have successfully intereacted with an item. 
 
+## W9
+
+### Activity 1
+Being able to properly set up branching dialouge can solve a lot of headache beforehand. I tried setting up a branching dialogue myself, and I used a simple list of strings to hold every dialouge line that the NPC can say, and I made this list appear in the Inspector so each NPC would hold their own script and hold their own list of dialouge options, and each would have a method to display each Dialogue Option one at a time to the screen, by using a Coroutine. It's simple but handles the task really well for the most part.
+
+### Activity 2
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+
+### Activity 3
+Add a crosshair to make interacting with the apples easier. Have an indicator that says you actually applied Mouse Sensitivity setting. Decrease pick up timer so you can both pick up and talk to Blacksmith NPC faster. Add dialogue options to other NPCs as well. Add text that tells the player they can press J to drop apples. Make apple hitbox bigger. 
+
+### Activity 4
+I feel like we made some progress this past week, especially for me. I added a ton of models with their own materials and animations, which did take me a while to do, even though the animations are super simple. I feel like we are on pace to complete the game by the due date, which gives me time to fine tune some details about our game. So this means our project scope was pretty reasonable, which allowed for some wiggle room for improvements.
+
+### Activity 5
+[Proof of Commit](https://github.com/rsun050/handy-dandy/commit/2361132f9e2876ab67325a5b7b9f0101c10cd38d)
+<br>
+I fixed some bugs that we had in our game. I added a recticle to the player HUD so the player can easily interact with NPCs and apples. I decreases the cooldown to talk to NPCs and to pick up apples. I also added text that lets the player know that they can press J to drop apples. I added confirmation text that shows up to let the player know that they successfully changed their Mouse Sensitivity in Settings.
