@@ -143,3 +143,16 @@ I feel like we made some progress this past week, especially for me. I added a t
 [Proof of Commit](https://github.com/rsun050/handy-dandy/commit/2361132f9e2876ab67325a5b7b9f0101c10cd38d)
 <br>
 I fixed some bugs that we had in our game. I added a recticle to the player HUD so the player can easily interact with NPCs and apples. I decreases the cooldown to talk to NPCs and to pick up apples. I also added text that lets the player know that they can press J to drop apples. I added confirmation text that shows up to let the player know that they successfully changed their Mouse Sensitivity in Settings.
+
+# W10
+
+### Activity 1
+Attendance: Michael Lopez, Ruth Sun, Armando Topete
+
+### Activity 2
+Make mouse sensitivity begin at correct starting value, because it shows the player has a mouse sensitivity of 1, when that's not the case. Update the materials for the assets, since the materials are just basic colors right now. Add the remaining assets, including the monster, food item, apples, and sword.
+
+### Activity 3
+We are pretty far into our project, and I think we will finish it in time. I feel like our original plan was just enough to keep us on our toes, it wasn't too much and it wasn't too little, especially for me since this is the first time I've ever actually made a real game. I was in charge of the environment-making, and I learned a lot of things and had problems with things that I never would of thought of before. But I did my best to overcome the challenges, and I feel like I learned a lot, even though my assets are pretty basic.
+
+### Activity 4
