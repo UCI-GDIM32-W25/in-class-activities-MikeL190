@@ -150,7 +150,7 @@ I fixed some bugs that we had in our game. I added a recticle to the player HUD 
 Attendance: Michael Lopez, Ruth Sun, Armando Topete
 
 ### Activity 2
-Make mouse sensitivity begin at correct starting value, because it shows the player has a mouse sensitivity of 1, when that's not the case. Update the materials for the assets, since the materials are just basic colors right now. Add the remaining assets, including the monster, food item, apples, and sword.
+Make mouse sensitivity begin at the correct starting value, because it shows the player has a mouse sensitivity of 1, when that's not the case. Update the materials for the assets, since the materials are just basic colors right now. Add the remaining assets, including the monster, food item, apples, and sword.
 
 ### Activity 3
 We are pretty far into our project, and I think we will finish it in time. I feel like our original plan was just enough to keep us on our toes, it wasn't too much and it wasn't too little, especially for me since this is the first time I've ever actually made a real game. I was in charge of the environment-making, and I learned a lot of things and had problems with things that I never would of thought of before. But I did my best to overcome the challenges, and I feel like I learned a lot, even though my assets are pretty basic.
