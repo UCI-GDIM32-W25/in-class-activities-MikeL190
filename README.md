@@ -156,3 +156,6 @@ Make mouse sensitivity begin at the correct starting value, because it shows the
 We are pretty far into our project, and I think we will finish it in time. I feel like our original plan was just enough to keep us on our toes, it wasn't too much and it wasn't too little, especially for me since this is the first time I've ever actually made a real game. I was in charge of the environment-making, and I learned a lot of things and had problems with things that I never would of thought of before. But I did my best to overcome the challenges, and I feel like I learned a lot, even though my assets are pretty basic.
 
 ### Activity 4
+[Proof of Commit](https://github.com/rsun050/handy-dandy/commit/14c2839a58c3e89c531bfd3add7bf8c8c4ec46d9)
+<br>
+I added some basic dialogue branching paths to the blacksmith, where after gathering and turning in the correct amount of apples, you can choose either the Sword or Food. If you choose sword, then you will get teleported to a new level where you will fight the monster. If you choose food, then you will be able to put the monster to sleep. 
